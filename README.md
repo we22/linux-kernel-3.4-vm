@@ -6,14 +6,14 @@ Linux 3.4 branch kernel config for Xen virtual machine
 Current kernel version: 3.2.60
 
 Main Features:
-    - Xen frontend
-    - cgroup
-    - iSCSI
-    - ext4
-    - LVM
-    - iptables
-    - ipset
-    - ipv6
+- Xen frontend
+- cgroup
+- iSCSI
+- ext4
+- LVM
+- iptables
+- ipset
+- ipv6
 
 Compile options:
 
